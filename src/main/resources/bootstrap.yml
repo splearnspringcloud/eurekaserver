@@ -2,3 +2,5 @@
 spring:
   application:
     name: eurekaserver
+server:
+  port: 8761
